@@ -8,7 +8,7 @@ import { AccountComponent } from './account/account.component'
 
 @NgModule({
   imports:      [ BrowserModule, FormsModule ],
-  declarations: [ AppComponent, ServerComponent,AccountComponent ],
+  declarations: [ AppComponent, ServerComponent, AccountComponent ],
   bootstrap:    [ AppComponent ]  
 })
 export class AppModule { }
